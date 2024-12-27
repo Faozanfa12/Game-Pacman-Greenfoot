@@ -1,2 +1,1 @@
-# Game-Pacman-Greenfoot
-# byFaozanFahmiArdhana
+# Game-Pacman-Greenfoot byFaozanFahmiArdhana
